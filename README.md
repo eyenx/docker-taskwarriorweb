@@ -7,4 +7,4 @@ This repository just does the following:
 
 * clone taskwarrior-web's [repository](https://github.com/theunraveler/taskwarrior-web/)
 * `docker build .`
-* push it to [docker hub](https://hub.docker.com/r/eyenx/taskwarriorweb)
+* push it to [ghcr](https://github.com/users/eyenx/packages/container/package/taskwarriorweb)
